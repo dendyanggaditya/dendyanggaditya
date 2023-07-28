@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dendyanggaditya
-- 👀 I’m interested in Javascript, UI Engineer, Swift, frontend web or mobile
-- 🌱 I’m currently learning Vue, Swift, Kotlin, Javascript, Html, Css
+- 👀 I’m interested in Frontend Developer(Mobile and Web), UI Developer, UI/UX Design.
+- 🌱 I’m currently learning Angular, Nuxt, Vue,  Typescript, Javascript, HTML, CSS, PrimeNG, Material, Vuetify, Swift, Android.
 - 💞️ I’m looking to collaborate on freelance project with frontend role
 - 📫 How to reach me dendyanggaditya.dev@gmail.com
 
