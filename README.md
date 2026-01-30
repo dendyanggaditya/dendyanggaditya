@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on freelance project with frontend role
 - 📫 How to reach me dendyanggaditya.dev@gmail.com
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=dendyanggaditya)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dendyanggaditya&theme=dark)](https://git.io/streak-stats)
 
 <!---
 dendyanggaditya/dendyanggaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
